@@ -1,0 +1,11 @@
+tv_power
+tv_source
+tv_volume_down
+tv_volume_up
+receiver_power
+receiver_source_bluray
+receiver_source_dvdbluray
+receiver_source_game
+reciever_volume_down
+receiver_volume_up
+receiver_source_mediaplayer
